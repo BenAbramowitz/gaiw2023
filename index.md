@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Welcome to GAIW 2022
-subtitle: ---
+subtitle: A Workshop at AAMAS 2022
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
