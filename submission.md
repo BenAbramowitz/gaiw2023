@@ -21,7 +21,7 @@ Please use the following command if you are using the AAMAS format from the webs
 ```
 
 ## Submission Details
-*Formatting Guidelines:* Please format papers according to the AAMAS 2022 format ([Details Link](https://aamas2021.soton.ac.uk/calls/papers/)). Optionally, one may submit in LNCS format as well.
+*Formatting Guidelines:* Please format papers according to the AAMAS 2022 format ([Details Link](https://aamas2022-conference.auckland.ac.nz/calls/submission-instruction/)). Optionally, one may submit in LNCS format as well.
 
 *Paper Length:* Papers can be at most 8 pages long in AAMAS format, or 12 pages long in LNCS format. Additional pages for may be used for references. Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.
 
