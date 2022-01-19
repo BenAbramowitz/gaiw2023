@@ -5,9 +5,9 @@ published: true
 ---
 
 ## Important Dates
-* Submission Deadline: January 30, 2022 (AoE).
-* Acceptance Notification: February 27, 2022 (AoE).
-* Camera Ready: March 13, 2022 (AoE).
+* Submission Deadline: February 13, 2022 (AoE).
+* Acceptance Notification: March 20, 2022 (AoE).
+* Camera Ready: April 3, 2022 (AoE).
 * Workshop: May 9th or 10th, 2022.
 
 ## Submission Site and Details
