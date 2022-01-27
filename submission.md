@@ -11,7 +11,7 @@ published: true
 * Workshop: May 9th or 10th, 2022.
 
 ## Submission Site and Details
-Authors should submit full papers electronically in PDF format at
+Authors should submit full papers electronically in PDF format at https://easychair.org/conferences/?conf=gaiw2022
 
 Please use the following command if you are using the AAMAS format from the website before the `\title` command.
 
