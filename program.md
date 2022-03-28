@@ -7,6 +7,7 @@ published: true
 ## Program
 
 TBD
+GAIW 2022 will be held entirely online.
 
 
 ## Accepted Papers
