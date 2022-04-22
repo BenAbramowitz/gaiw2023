@@ -10,7 +10,7 @@ TBD
 GAIW 2022 will be held entirely online.
 
 
-## Accepted Papers
+## Long Talks
 
 * I Will Have Order! Optimizing Orders for Fair Reviewer Assignment - Justin Payan, Yair Zick
 * Strategyproofing Peer Assessment via Partitioning: The Price in Terms of Evaluators' Expertise - Komal Dhull, Steven Jecmen, Pravesh Kothari, Nihar Shah
