@@ -20,7 +20,8 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 * Submission Deadline: February 13, 2022 (AoE).
 * Acceptance Notification: March 20, 2022.
 * Camera Ready: April 3, 2022 (AoE).
-* Workshop: May 8th or 9th, 2022 (depending on your time zone). Online.
+* Workshop Session 1: 3:00-6:00 May 9th, 2022 (Auckland). Online.
+* Workshop Session 2: 11:00-14:00 May 9th, 2022 (Auckland). Online.
 
 ---
 
