@@ -12,8 +12,8 @@ Session 1 will be 03:00-06:00 (Auckland) on May 9th, and Session 2 will be 11:00
 
 ## Session 1
 
-| Time (Auckland)   |   Talk   |  Authors | Paper |
-|------------|:-----------:|------:|------:|
+| Time (Auckland) |   Talk   |  Authors  |  Paper  |
+|------------|:-----------:|:------:|:------:|
 | 3:00 - 3:20 | On the Impact of Social Media Recommendations on Opinion Consensus | Antonio Coppola, Diodato Ferraioli, Vincenzo Auletta | [(PDF)](https://drive.google.com/file/d/15Bk6_sXZBrPja9U8khulRHgOTwqN_7sS/view?usp=sharing) |
 | 3:20 - 3:40 | Welfare Optimal Combinatorial Civic Crowdfunding with Budgeted Agents  | Sankarshan Damle, Manisha Padala, Sujit Gujar | [(PDF)](https://drive.google.com/file/d/1hmF_qGTORDRgA0gX-zB535I80zdxmV6w/view?usp=sharing) |
 | 3:40 - 3:45 | Gradient Descent Ascent in Min-Max Stackelberg Games | Denizalp Goktas, Amy Greenwald | [(PDF)](https://drive.google.com/file/d/102iQn3ayHAzlaiVVKzDIEyF0O4KDccyW/view?usp=sharing) |
@@ -32,8 +32,8 @@ Session 1 will be 03:00-06:00 (Auckland) on May 9th, and Session 2 will be 11:00
 
 
 ## Session 2
-| Time (Auckland)   |      Talk      |  Authors | Paper |
-|----------|:-------------:|------:|------:|
+| Time (Auckland)   |      Talk      | Authors | Paper |
+|----------|:-------------:|:------:|:------:|
 | 11:00 - 11:20 |  I Will Have Order! Optimizing Orders for Fair Reviewer Assignment | Justin Payan, Yair Zick | [(PDF)](https://drive.google.com/file/d/1FSbIbvkZi5ScOax5Tc2JxGdtSJnoEgcy/view?usp=sharing) |
 | 11:20 - 11:40 |  Combining Fairness and Optimality when Selecting and Allocating Projects | Khaled Belahcène, Vincent Mousseau, Anaëlle Wilczynski | [(PDF)](https://drive.google.com/file/d/1B4bTW_MoOKIVZyBok6cRyr777_0_pU7Q/view?usp=sharing) |
 | 11:40 - 11:45 |  Random Rank: The One and Only Strategyproof and Proportionally Fair Randomized Facility Location Mechanism | Haris Aziz, Alexander Lam, Mashbat Suzuki, Toby Walsh | [(PDF)](https://drive.google.com/file/d/1HkEx87BgYrb4hr0rmJQLoJyq7TCmsLsm/view?usp=sharing) |
@@ -54,12 +54,12 @@ Session 1 will be 03:00-06:00 (Auckland) on May 9th, and Session 2 will be 11:00
 
 ## Time Zones
 Location | Date | Session 1 | Session 2 |
-|----------|:-------------:|------:|------:|
+|----------|:-------------:|:------:|:------:|
 California | May 8 |  08:00-11:00 | 16:00-19:00 |
-New York | May 8 |  11:00-14:00 | 19:00-02:00 |
-London | May 8-9 |  16:00-01:00 | 24:00-03:00 |
-Paris | May 8-9 |  17:00-02:00 | 01:00-04:00 |
-Israel | May 8-9 |  18:00-03:00 | 02:00-05:00 |
+New York | May 8 |  11:00-14:00 | 19:00-22:00 |
+London | May 8-9 |  16:00-19:00 | 24:00-03:00 |
+Paris | May 8-9 |  17:00-20:00 | 01:00-04:00 |
+Israel | May 8-9 |  18:00-21:00 | 02:00-05:00 |
 Kolkata | May 8-9 |  20:30-23:30 | 04:30-07:30 |
 Beijing | May 8-9 |  23:00-02:00 | 07:00-10:00 |
 Sydney | May 9 |  01:00-04:00 | 09:00-12:00 |
