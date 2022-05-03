@@ -8,7 +8,8 @@ published: true
 * Submission Deadline: February 13, 2022 (AoE).
 * Acceptance Notification: March 20, 2022 (AoE).
 * Camera Ready: April 3, 2022 (AoE).
-* Workshop: May 9th or 10th, 2022.
+* Workshop Session 1: May 9th, 2022 (3:00-6:00 Auckland). Online.
+* Workshop Session 2: May 9th, 2022 (11:00-14:00 Auckland). Online.
 
 ## Submission Site and Details
 Authors should submit full papers electronically in PDF format ([Submission Link](https://easychair.org/conferences/?conf=gaiw2022))
