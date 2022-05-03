@@ -32,7 +32,7 @@ Session 1 will be 03:00-06:00 (Auckland) on May 9th, and Session 2 will be 11:00
 
 
 ## Session 2
-| Time   |      Talk      |  Authors | Paper |
+| Time (Auckland)   |      Talk      |  Authors | Paper |
 |----------|:-------------:|------:|------:|
 | 11:00 - 11:20 |  I Will Have Order! Optimizing Orders for Fair Reviewer Assignment | Justin Payan, Yair Zick | [(PDF)](https://drive.google.com/file/d/1FSbIbvkZi5ScOax5Tc2JxGdtSJnoEgcy/view?usp=sharing) |
 | 11:20 - 11:40 |  Combining Fairness and Optimality when Selecting and Allocating Projects | Khaled Belahcène, Vincent Mousseau, Anaëlle Wilczynski | [(PDF)](https://drive.google.com/file/d/1B4bTW_MoOKIVZyBok6cRyr777_0_pU7Q/view?usp=sharing) |
