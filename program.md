@@ -7,14 +7,12 @@ published: true
 ## Program
 
 GAIW 2022 will be held entirely online.
+Session 1 will be 03:00-06:00 (Auckland) on May 9th, and Session 2 will be 11:00-14:00 (Auckland) on May 9th.
 
 
-Session 1 is 3:00-6:00 (Auckland) and Session 2 is 11:00-14:00 (Auckland)
+## Session 1
 
-
-## May 9 - Session 1
-
-| Time   |   Talk   |  Authors | Paper |
+| Time (Auckland)   |   Talk   |  Authors | Paper |
 |------------|:-----------:|------:|------:|
 | 3:00 - 3:20 | On the Impact of Social Media Recommendations on Opinion Consensus | Antonio Coppola, Diodato Ferraioli, Vincenzo Auletta | [(PDF)](https://drive.google.com/file/d/15Bk6_sXZBrPja9U8khulRHgOTwqN_7sS/view?usp=sharing) |
 | 3:20 - 3:40 | Welfare Optimal Combinatorial Civic Crowdfunding with Budgeted Agents  | Sankarshan Damle, Manisha Padala, Sujit Gujar | [(PDF)](https://drive.google.com/file/d/1hmF_qGTORDRgA0gX-zB535I80zdxmV6w/view?usp=sharing) |
@@ -33,7 +31,7 @@ Session 1 is 3:00-6:00 (Auckland) and Session 2 is 11:00-14:00 (Auckland)
 
 
 
-## May 9 - Session 2
+## Session 2
 | Time   |      Talk      |  Authors | Paper |
 |----------|:-------------:|------:|------:|
 | 11:00 - 11:20 |  I Will Have Order! Optimizing Orders for Fair Reviewer Assignment | Justin Payan, Yair Zick | [(PDF)](https://drive.google.com/file/d/1FSbIbvkZi5ScOax5Tc2JxGdtSJnoEgcy/view?usp=sharing) |
@@ -54,9 +52,9 @@ Session 1 is 3:00-6:00 (Auckland) and Session 2 is 11:00-14:00 (Auckland)
 
 
 
-### Time Zones
+## Time Zones
 Location | Date | Session 1 | Session 2 |
-|----------|:-------------:|------:|
+|----------|:-------------:|------:|------:|
 California | May 8 |  08:00-11:00 | 16:00-19:00 |
 New York | May 8 |  11:00-14:00 | 19:00-02:00 |
 London | May 8-9 |  16:00-01:00 | 24:00-03:00 |
