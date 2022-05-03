@@ -32,6 +32,7 @@ Session 1 will be 03:00-06:00 (Auckland) on May 9th, and Session 2 will be 11:00
 
 
 ## Session 2
+
 | Time (Auckland) |   Talk   |  Authors  |  Paper  |
 |------------|:-----------:|:------:|:------:|
 | 11:00 - 11:20 |  I Will Have Order! Optimizing Orders for Fair Reviewer Assignment | Justin Payan, Yair Zick | [(PDF)](https://drive.google.com/file/d/1FSbIbvkZi5ScOax5Tc2JxGdtSJnoEgcy/view?usp=sharing) |
@@ -53,6 +54,7 @@ Session 1 will be 03:00-06:00 (Auckland) on May 9th, and Session 2 will be 11:00
 
 
 ## Time Zones
+
 Location | Date | Session 1 | Session 2 |
 |----------|:-------------:|:------:|:------:|
 California | May 8 |  08:00-11:00 | 16:00-19:00 |
