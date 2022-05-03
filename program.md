@@ -26,7 +26,8 @@ GAIW 2022 will be held entirely online.
 13. Locally EFX Allocations Over a Graph - Justin Payan, Rik Sengupta, Vignesh Viswanathan [(PDF)](https://drive.google.com/file/d/1YedkMcBvteZsk1OZpwar1uGqbg3mb2hs/view?usp=sharing)
 14. Capacity Expansion in the College Admission Problem - Federico Bobbio, Margarida Carvalho, Alfredo Torrico, Andrea Lodi [(PDF)](https://drive.google.com/file/d/1E1nuFAHqvjV1bgT9AsFpZfjnc514TEnv/view?usp=sharing)
 
-## Short Talks
+    ## Short Talks
+
 15. Random Rank: The One and Only Strategyproof and Proportionally Fair Randomized Facility Location Mechanism - Haris Aziz, Alexander Lam, Mashbat Suzuki, Toby Walsh [(PDF)](https://drive.google.com/file/d/1HkEx87BgYrb4hr0rmJQLoJyq7TCmsLsm/view?usp=sharing)
 16. Towards Secure Virtual Elections: Multiparty Computation of Order Based Voting Rules - Tamir Tassa, Lihi Dery [(PDF)](https://drive.google.com/file/d/11wFmSsNgEkkh1RGUm2sml3wHK7N-7HuM/view?usp=sharing)
 17. Strategic Reasoning in Automated Mechanism Design - Bastien Maubert, Munyque Mittelmann, Aniello Murano, Laurent Perrussel [(PDF)](https://drive.google.com/file/d/1g7JHKW5p1Rw4zXE2AUMIP2LyIILFamTd/view?usp=sharing)
