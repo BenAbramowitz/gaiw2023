@@ -8,7 +8,7 @@ published: true
 
 GAIW 2022 will be held entirely online.
 
-There will be two sessions for talks and two poster sessions.
+There will be two 3hr sessions for talks and two 1hr poster sessions.
 
 ## Time Zones
 
