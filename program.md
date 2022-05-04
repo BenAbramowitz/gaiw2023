@@ -10,7 +10,7 @@ GAIW 2022 will be held entirely online.
 
 There will be two 3hr sessions for talks and two 1hr poster sessions.
 
-## Time Zones
+## Talk Session Times
 
 
 | Location | Date | Talk Session 1 | Talk Session 2 |
@@ -25,6 +25,8 @@ Beijing | May 8-9 |  23:00-02:00 | 07:00-10:00 |
 Sydney | May 9 |  01:00-04:00 | 09:00-12:00 |
 Auckland | May 9 |  03:00-06:00 | 11:00-14:00 |
 
+
+## Poster Session Times
 
 | Location | Date | Poster Session 1 | Poster Session 2 |
 |----------|-------------|------|------|
