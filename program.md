@@ -17,10 +17,9 @@ In addition, GAIW is hosting two joint poster sessions with the ALA and LSA work
 
 **[Gather Town Link](https://app.gather.town/events/O8p6uZQ3G1EJELYsXH2v)**
 
-Information about the joint keynote speakers can be found on the [LSA workshop website](https://minbiaohan.github.io/LSA/program.html)
+There will be two invited talks, by Amy Greenwald and Panayotis Mertikopoulos. Information about the keynote speakers can be found on the [LSA workshop website](https://minbiaohan.github.io/LSA/program.html)
 
 Please find detailed information regarding the workshop schedule below.
-
 
 
 
