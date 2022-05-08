@@ -15,6 +15,8 @@ published: true
 * [Nicholas Mattei](http://www.nickmattei.net/), Tulane University
 * [Yair Zick](https://people.umass.edu/yzick/), University of Massachusetts, Amherst
 
+<!--
 ## Program Committee
 
 TBD
+-->
