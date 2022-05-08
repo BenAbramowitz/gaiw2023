@@ -10,8 +10,7 @@ GAIW 2022 will be held entirely online.
 
 Talk sessions will be hosted on Zoom, and can be joined via the link below.
 
-**Zoom Link**: The Zoom link will be available nearer the start time of the workshop.
-<!-- https://psu.zoom.us/j/93817541262?pwd=M3VuaVNvb2p2T3UzS1Y3dUJmdVAwdz09 -->
+**[Zoom Link](https://psu.zoom.us/j/93817541262?pwd=M3VuaVNvb2p2T3UzS1Y3dUJmdVAwdz09)**
 
 In addition, GAIW is hosting two joint poster sessions with the ALA and LSA workshops, which are also taking place at AAMAS 2022. Each poster session will take place in the Gather Town space shared below:
 
