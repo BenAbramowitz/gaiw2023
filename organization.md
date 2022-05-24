@@ -18,52 +18,52 @@ published: true
 
 ## Program Committee
 
-Edith	Elkind
-Gianluigi	Greco
-Sricharan	A R
-Denizalp	Goktas
-Steven	Jecmen
-Mehmet	Ismail
-Marina	Knittel	
-Alexandros	Voudouris
-Anaëlle	Wilczynski
-Valentin	Robu
-Nimrod	Talmon
-Zhaohong	Sun
-Chien-Ju	Ho
-Patrick	Lederer
-Bryce	Wiedenbeck
-Makoto	Yokoo
-Ben	Armstrong
-Josue	Ortega
-Martin	Bullinger
-Chenhao	Wang
-Nawal	Benabbou
-Haoming	Li
-Roy	Fairstein
-Anilesh	Kollagunta Krishnaswamy
-Caspar	Oesterheld
-Nicholas	Teh
-Nihar	Shah
-Diodato	Ferraioli
-Umberto	Grandi
-Ulle	Endriss
-Ian	Kash
-Martin	Strobel
-John P.	Dickerson
-Atsushi	Iwasaki
-Rohit	Vaish
-Dengji	Zhao
-Enrique	Areyan Viqueira
-Kate	Larson
-Hanrui	Zhang
-Angelo	Fanelli
-George	Christodoulou
-Omer	Lev
-Siddharth	Barman
-Umang	Bhaskar
-Alan	Tsang
-Urban	Larsson
-Zun	Li
-Jacob	Schlueter
+* Edith	Elkind
+* Gianluigi	Greco
+* Sricharan	A R
+* Denizalp	Goktas
+* Steven	Jecmen
+* Mehmet	Ismail
+* Marina	Knittel	
+* Alexandros	Voudouris
+* Anaëlle	Wilczynski
+* Valentin	Robu
+* Nimrod	Talmon
+* Zhaohong	Sun
+* Chien-Ju	Ho
+* Patrick	Lederer
+* Bryce	Wiedenbeck
+* Makoto	Yokoo
+* Ben	Armstrong
+* Josue	Ortega
+* Martin	Bullinger
+* Chenhao	Wang
+* Nawal	Benabbou
+* Haoming	Li
+* Roy	Fairstein
+* Anilesh	Kollagunta Krishnaswamy
+* Caspar	Oesterheld
+* Nicholas	Teh
+* Nihar	Shah
+* Diodato	Ferraioli
+* Umberto	Grandi
+* Ulle	Endriss
+* Ian	Kash
+* Martin	Strobel
+* John P.	Dickerson
+* Atsushi	Iwasaki
+* Rohit	Vaish
+* Dengji	Zhao
+* Enrique	Areyan Viqueira
+* Kate	Larson
+* Hanrui	Zhang
+* Angelo	Fanelli
+* George	Christodoulou
+* Omer	Lev
+* Siddharth	Barman
+* Umang	Bhaskar
+* Alan	Tsang
+* Urban	Larsson
+* Zun	Li
+* Jacob	Schlueter
 
