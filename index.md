@@ -28,6 +28,7 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 ---
 
 ## Important Links:
+* [GAIW 2022 Program Recording](https://youtu.be/HAb1wDhZg-g)
 * [AAMAS 2022 Conference Website](https://aamas2022-conference.auckland.ac.nz/)
 * [4th GAIW Website (2022)](https://preflib.github.io/gaiw2022/)
 * [3rd GAIW Website (2021)](https://preflib.github.io/gaiw2021/)
