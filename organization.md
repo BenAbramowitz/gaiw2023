@@ -50,7 +50,6 @@ published: true
 * Ulle	Endriss
 * Ian	Kash
 * Martin	Strobel
-* John P.	Dickerson
 * Atsushi	Iwasaki
 * Rohit	Vaish
 * Dengji	Zhao
@@ -59,7 +58,6 @@ published: true
 * Hanrui	Zhang
 * Angelo	Fanelli
 * George	Christodoulou
-* Omer	Lev
 * Siddharth	Barman
 * Umang	Bhaskar
 * Alan	Tsang
