@@ -6,17 +6,13 @@ published: true
 
 ## Program
 
-GAIW 2022 will be held entirely online.
+GAIW 2022 was be held entirely online.
 
-Talk sessions will be hosted on Zoom, and can be joined via the link below.
+The full recording of the Zoom talk sessions is available on [YouTube](https://youtu.be/HAb1wDhZg-g)
 
-**[Zoom Link](https://psu.zoom.us/j/93817541262?pwd=M3VuaVNvb2p2T3UzS1Y3dUJmdVAwdz09)**
+In addition, GAIW held two joint poster sessions with the ALA and LSA workshops, which took place at AAMAS 2022. Each poster session took place on Gather Town:
 
-In addition, GAIW is hosting two joint poster sessions with the ALA and LSA workshops, which are also taking place at AAMAS 2022. Each poster session will take place in the Gather Town space shared below:
-
-**[Gather Town Link](https://app.gather.town/events/O8p6uZQ3G1EJELYsXH2v)**
-
-There will be two invited talks, by Amy Greenwald and Panayotis Mertikopoulos. Information about the keynote speakers can be found on the [LSA workshop website](https://minbiaohan.github.io/LSA/program.html)
+There were two invited talks, by Amy Greenwald and Panayotis Mertikopoulos. Information about the keynote speakers can be found on the [LSA workshop website](https://minbiaohan.github.io/LSA/program.html)
 
 Please find detailed information regarding the workshop schedule below.
 
